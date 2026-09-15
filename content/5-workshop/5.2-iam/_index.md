@@ -211,7 +211,7 @@ Policies are added progressively during the workshop:
 | EventBridge Scheduler | Creates the daily Lambda schedule |
 | IAM PassRole | Passes an approved execution role to an AWS service |
 
-![Policies attached to SmartHome-Developers](/images/5-workshop/5.2-iam/03-group-permissions.png)
+![Policies attached to SmartHome-Developers](/images/5.2.5.png)
 
 ### Permission principles
 

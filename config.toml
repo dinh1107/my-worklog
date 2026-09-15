@@ -1,7 +1,6 @@
-baseURL = "https://github.com/dinh1107/my-worklog.git"
+baseURL = "https://dinh1107.github.io/my-worklog/"
 theme = "hugo-theme-learn"
-# Change the default theme to be used when building the site with Hugo
-theme = "hugo-theme-learn"
+
 
 # For search functionality
 [outputs]

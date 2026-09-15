@@ -1,0 +1,7 @@
+public/
+resources/_gen/
+.hugo_build.lock
+/hugo.exe
+/.git-backup/
+/.kilo/
+/001content.zip

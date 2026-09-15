@@ -1,0 +1,6 @@
+{{- $src := strings.TrimPrefix "/" .Destination -}}
+<img
+  src="{{ $src | relURL | safeURL }}"
+  alt="{{ .Text }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+>
